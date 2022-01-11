@@ -1,6 +1,7 @@
 /*Navigation styles*/
 .nav {
     display: inline-block; 
+    background-color:#EAEDF3;
     vertical-align: top;
     width: 73%;
     Padding: 1%;
@@ -9,12 +10,11 @@
     display: inline-block; 
 }
 
-.logo  {
-    display: inline-block
+.logo {
     width: 23%;
     padding: 1%;
     text-align: center;
-
+    
 }
 
 .ul {
@@ -34,7 +34,7 @@
 }
 
 .footer  {
-    background-color: #373738;
+    background-color: #EAEDF3;
     padding-left: 5%;
     display: inline-block;
     vertical-align: top;
